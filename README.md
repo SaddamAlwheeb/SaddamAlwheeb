@@ -114,6 +114,4 @@ Hi 👋, I'm Saddam Alwaheab</h1>
             alt="SaddamAlwheeb" /></p>
 
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaddamAlwheeb&theme=onedark"
-            alt="SaddamAlwheeb" /></p>
-    , initial-scale=1.0">
-    <title>Document</title>
+            alt="SaddamAlwheeb" />

@@ -105,6 +105,9 @@
     <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="vb" width="40" height="40" />
     </a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="machine-learning" width="40" height="40" />
+    </a>
 </p>
 
 
